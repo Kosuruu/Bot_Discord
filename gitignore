@@ -1,0 +1,4 @@
+# Ignore Discord token
+env.py
+.DS_Store
+./__pycache__/
